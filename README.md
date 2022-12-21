@@ -4,7 +4,9 @@ Write a program to open the file romeo.txt and read it line by line. For each li
 
 ## Starter Code
 
-``` file_name = input("Enter file: ") ```
+```python
+file_name = input("Enter file: ") 
+```
 
 ## Desired Output
 
@@ -16,3 +18,6 @@ Enter file: romeo.txt
 'sun', 'the', 'through', 'what', 'window',
 'with', 'yonder']
 ```
+
+## Test
+When your code is finished, run `pytest` in your terminal
